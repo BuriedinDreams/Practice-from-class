@@ -12,4 +12,12 @@ body {
 
 .Special {
   background-color: coral;
+  border: dotted crimson;
+  /* display: inline-block; */
+}
+
+td.Special,
+li:first-child {
+  background-color: cornflowerblue;
+  display: inline-block;
 }

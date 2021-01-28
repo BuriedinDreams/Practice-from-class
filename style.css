@@ -1,3 +1,15 @@
 body {
   background-color: cadetblue;
 }
+
+#PB {
+  border: 3px solid rgb(52, 97, 165);
+}
+
+#Jelly {
+  border: 5px dotted purple;
+}
+
+.Special {
+  background-color: coral;
+}
